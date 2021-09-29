@@ -11,7 +11,6 @@ import {
 } from 'react-native'
 import { Formik, Field } from 'formik'
 import * as yup from 'yup'
-import CustomInput from '../../components/CustomInput '
 import React, {useEffect,useLayoutEffect} from 'react'
 import { AntDesign } from '@expo/vector-icons'; 
 import { FontAwesome } from '@expo/vector-icons'; 
